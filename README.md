@@ -1,7 +1,9 @@
 🏦 Bank Loan Analysis — Dual Dashboard | Excel
 
 📊 Project Overview
+
 This project presents a Bank Loan Analysis Dashboard developed in Microsoft Excel to analyze loan applications, funded amounts, repayment performance, borrower profiles, and loan quality.
+
 The project includes two interactive dashboard views, designed to provide both a high-level business overview and detailed loan performance insights.
 The objective is to transform raw banking data into meaningful insights that can support data-driven lending and financial decision-making.
 

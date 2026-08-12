@@ -7,6 +7,7 @@ The project includes two interactive dashboard views, designed to provide both a
 The objective is to transform raw banking data into meaningful insights that can support data-driven lending and financial decision-making.
 
 🎯 Business Objectives
+
 Analyze overall loan application and funding trends
 Track loan repayment and outstanding amounts
 Compare Good Loans vs Bad Loans
@@ -16,6 +17,7 @@ Understand monthly and regional trends
 Provide an interactive and easy-to-understand management view
 
 📌 Key KPIs Analyzed
+
 Total Loan Applications
 Total Funded Amount
 Total Amount Received
